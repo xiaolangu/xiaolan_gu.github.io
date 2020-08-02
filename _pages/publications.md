@@ -3,7 +3,7 @@ title: "Publications [(Google Scholar Profile)](https://scholar.google.com/citat
 permalink: /publications/
 author_profile: true
 ---
-<br>
+
 ## Conference Papers  
 
 **PCKV: Locally Differentially Private Correlated Key-Value Data Collection with Optimized Utility** &nbsp;&nbsp; [<font size="3">[paper]</font>](https://arxiv.org/pdf/1911.12834.pdf) [<font size="3">[slides]</font>](http://xiaolangu.github.io/files/USENIX20_slides.pdf)  
