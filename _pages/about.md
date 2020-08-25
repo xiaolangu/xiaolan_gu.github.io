@@ -9,7 +9,7 @@ redirect_from:
 ---
 
 <p align="center">
-  <img src="https://github.com/xiaolangu/xiaolangu.github.io/blob/master/images/photo_outdoor.jpg?raw=true" alt="Photo" style="width: 500px;"/> 
+  <img src="https://github.com/xiaolangu/xiaolangu.github.io/blob/master/images/photo_outdoor.jpg?raw=true" alt="Photo" style="width: 600px;"/> 
 </p>
 
 # About Me
