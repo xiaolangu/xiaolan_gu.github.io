@@ -6,17 +6,17 @@ author_profile: true
 
 ## Conference Papers  
 
-**PCKV: Locally Differentially Private Correlated Key-Value Data Collection with Optimized Utility** &nbsp;&nbsp; [<font size="3">[paper]</font>](https://arxiv.org/pdf/1911.12834.pdf) [<font size="3">[slides]</font>](http://xiaolangu.github.io/files/USENIX20_slides.pdf)  [code](https://github.com/xiaolangu/PCKV)
+**PCKV: Locally Differentially Private Correlated Key-Value Data Collection with Optimized Utility** &nbsp;&nbsp; [<font size="3">[paper]</font>](https://arxiv.org/pdf/1911.12834.pdf) [<font size="3">[slides]</font>](http://xiaolangu.github.io/files/USENIX20_slides.pdf) [<font size="3">[code]</font>](https://github.com/xiaolangu/PCKV)  
 **Xiaolan Gu**, Ming Li, Yueqiang Cheng, Li Xiong and Yang Cao  
 *29th USENIX Security Symposium* (**USENIX Security 2020**)  
 Virtual, August 2020. 
 
-**Providing Input-Discriminative Protection for Local Differential Privacy**  &nbsp;&nbsp; [<font size="3">[full version]</font>](https://arxiv.org/pdf/1911.01402.pdf)   [<font size="3">[slides]</font>](http://xiaolangu.github.io/files/ICDE20_slides.pdf)  
+**Providing Input-Discriminative Protection for Local Differential Privacy**  &nbsp;&nbsp; [<font size="3">[paper]</font>](https://arxiv.org/pdf/1911.01402.pdf)   [<font size="3">[slides]</font>](http://xiaolangu.github.io/files/ICDE20_slides.pdf)  [<font size="3">[code]</font>](https://github.com/xiaolangu/ID-LDP)  
 **Xiaolan Gu**, Ming Li, Li Xiong and Yang Cao  
 *36th IEEE International Conference on Data Engineering* (**ICDE 2020**)  
 Virtual, April 2020. (Acceptance rate: 129/568=23%)
 
-**Supporting both Range Queries and Frequency Estimation with Local Differential Privacy**  [<font size="3">[paper]</font>](http://xiaolangu.github.io/files/CNS19_paper.pdf) [<font size="3">[slides]</font>](http://xiaolangu.github.io/files/CNS19_slides.pdf)   
+**Supporting both Range Queries and Frequency Estimation with Local Differential Privacy**  [<font size="3">[paper]</font>](http://xiaolangu.github.io/files/CNS19_paper.pdf) [<font size="3">[slides]</font>](http://xiaolangu.github.io/files/CNS19_slides.pdf)   [<font size="3">[code]</font>](https://github.com/xiaolangu/range-frequency)  
 **Xiaolan Gu**, Ming Li, Yang Cao and Li Xiong  
 *7th IEEE Conference on Communications and Network Security* (**IEEE CNS 2019**)  
 Washington, D.C., June 2019. (Acceptance rate: 32/115=28%)  
