@@ -23,6 +23,9 @@ My research interest includes privacy-preserving techniques (e.g., Differential 
 
 This is my up-to-date [CV](http://xiaolangu.github.io/files/CV_Xiaolan_Gu.pdf).
 
+<br>
+
+---------------
 
 # Publications
 
@@ -47,7 +50,7 @@ arXiv preprint, 2021
 **Xiaolan Gu**, Ming Li, Yang Cao and Li Xiong  
 *IEEE Conference on Communications and Network Security* (**CNS**), 2019. (acceptance rate: 32/115=28%)  
 
-<br>
+
 ## Journal Papers
 
 **Sparse canonical correlation analysis algorithm with alternating direction method of multipliers** &nbsp;&nbsp; [[paper]](https://www.tandfonline.com/doi/pdf/10.1080/03610918.2018.1520867?casa_token=Wqswb-deSccAAAAA:4CcoxUaTO97EqZ5JG5M4WxOEzp5VQbeu4WcwyUaC6kOLQXAPVKom9-UMFTXPjrD4njLNUgX3OpSs)  
@@ -62,7 +65,7 @@ arXiv preprint, 2021
 Qiusheng Wang, **Xiaolan Gu** and Jinyong Lin  
 *AEU - International Journal of Electronics and Communications*, 2017(82), pp. 202-210, 2017.
 
-**Digital multiple notch filter design with Nelder-Mead simplex method**  &nbsp;&nbsp; [paper](http://xiaolangu.github.io/files/IEICE17.pdf)  
+**Digital multiple notch filter design with Nelder-Mead simplex method**  &nbsp;&nbsp; [[paper]](http://xiaolangu.github.io/files/IEICE17.pdf)  
 Qiusheng Wang, **Xiaolan Gu**, Yingyi Liu and Haiwen Yuan  
 *IEICE Transactions on Fundamentals of Electronics, Communications and Computer Science*, 100(1), pp. 259-265, 2017.  
 
