@@ -58,7 +58,7 @@ This is my up-to-date [CV](http://xiaolangu.github.io/files/CV_Xiaolan_Gu.pdf).
 **Xiaolan Gu** and Qiusheng Wang  
 *Communications in Statistics - Simulation and Computation*, pp. 1-17, 2019.
 
-1. **Received signal strength indication-based localisation method with unknown path-loss exponent for HVDC electric field measurement**  &nbsp;&nbsp; [[paper]](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=8244349)  
+1. **Received signal strength indication-based localisation method with unknown path-loss exponent for HVDC electric field measurement**  &nbsp;&nbsp; [[paper]](https://ietresearch.onlinelibrary.wiley.com/doi/10.1049/hve.2017.0085)  
 **Xiaolan Gu**, Yong Cui, Qiusheng Wang, Haiwen Yuan, Luxing Zhao and Guifang Wu  
 *IET - High Voltage*, 2(4), pp. 261-266, 2017.
 
