@@ -21,8 +21,6 @@ I am a Data Scientist at LinkedIn specializing in Privacy-Enhancing Technologies
 
 My research interests focus on  privacy-preserving techniques (e.g., Differential Privacy and Secure Multi-Party Computation) and robust machine learning/federated learning. 
 
-This is my up-to-date [CV](http://xiaolangu.github.io/files/CV_Xiaolan_Gu.pdf).
-
 <br>
 
 
