@@ -10,7 +10,7 @@ locale                   : "en-US"
 title                    : "Xiaolan Gu"
 title_separator          : "-"
 name                     : &name "Xiaolan Gu"
-description              : &description "Ph.D. student, ECE Department, University of Arizona"
+description              : &description "Data Scientist, LinkedIn"
 url                      : https://xiaolangu.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "xiaolangu/xiaolangu.github.io"
@@ -79,11 +79,11 @@ analytics:
 author:
   name             : "Xiaolan Gu"
   avatar           : "photo_face.jpg"
-  bio              : "Ph.D. student, ECE Department, University of Arizona"
-  location         : "Tucson, Arizona"
+  bio              : "Data Scientist, LinkedIn"
+  location         : 
   employer         : 
   googlescholar    : "https://scholar.google.com/citations?user=Lz1WvxEAAAAJ&hl=en"
-  email            : "xiaolang@email.arizona.edu"
+  email            : "xiaolang@arizona.edu"
   uri              : 
   bitbucket        :
   codepen          :
@@ -96,7 +96,7 @@ author:
   keybase          :
   instagram        : 
   lastfm           :
-  linkedin         :
+  linkedin         : "https://www.linkedin.com/in/xiaolan-gu-414258175/"
   orcid            : 
   pinterest        :
   soundcloud       :
