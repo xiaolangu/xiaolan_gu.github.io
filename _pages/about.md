@@ -17,9 +17,9 @@ redirect_from:
 
 # About Me
 
-I am a Ph.D. student in the Department of Electrical and Computer Engineering at University of Arizona from Fall 2018, working with Prof. [Ming Li](http://wiser.arizona.edu/mingli/index.html). In Summer 2019, I was a research intern at Baidu Security Lab.  Before that, I received B.S. (in Mathematics and System Science) and M.S. (in Automation Science and Electrical Engineering) at Beihang University.  
+I am a Data Scientist at LinkedIn specializing in Privacy-Enhancing Technologies (PETs). I completed my Ph.D. in Electrical and Computer Engineering at the University of Arizona under the mentorship of Prof. [Ming Li](http://wiser.arizona.edu/mingli/index.html). During Summer 2022, I interned as an Applied Research Data Scientist at LinkedIn, and in Summer 2019, I was a research intern at Baidu Security Lab. I hold a B.S. in Mathematics and System Science and an M.S. in Automation Science and Electrical Engineering, both from Beihang University. 
 
-My research interest includes privacy-preserving techniques (e.g., Differential Privacy and Secure Multi-Party Computation) and robust machine learning/federated learning (against adversarial examples and poisoning attacks). 
+My research interests focus on  privacy-preserving techniques (e.g., Differential Privacy and Secure Multi-Party Computation) and robust machine learning/federated learning. 
 
 This is my up-to-date [CV](http://xiaolangu.github.io/files/CV_Xiaolan_Gu.pdf).
 
@@ -38,6 +38,10 @@ This is my up-to-date [CV](http://xiaolangu.github.io/files/CV_Xiaolan_Gu.pdf).
 
 
 ## Conference Papers  
+
+1. **DP-BREM: Differentially-Private and Byzantine-Robust Federated Learning with Client Momentum** &nbsp;&nbsp; [[paper]](https://arxiv.org/abs/2306.12608)  
+**Xiaolan Gu**, Ming Li, and Li Xiong  
+**USENIX Security**, 2025 (accepted)
 
 1. **PCKV: Locally Differentially Private Correlated Key-Value Data Collection with Optimized Utility** &nbsp;&nbsp; [[paper]](https://www.usenix.org/system/files/sec20-gu.pdf) [[slides]](http://xiaolangu.github.io/files/USENIX20_slides.pdf) [[code]](https://github.com/xiaolangu/PCKV)  
 **Xiaolan Gu**, Ming Li, Yueqiang Cheng, Li Xiong and Yang Cao  
@@ -71,4 +75,4 @@ Qiusheng Wang, **Xiaolan Gu**, Yingyi Liu and Haiwen Yuan
 *IEICE Transactions on Fundamentals of Electronics, Communications and Computer Science*, 100(1), pp. 259-265, 2017.  
 
 --------------------
-[Last updated: Nov. 2021]
+[Last updated: Nov. 2024]
