@@ -17,7 +17,7 @@ redirect_from:
 
 # About Me
 
-I am a Data Scientist at LinkedIn specializing in Privacy-Enhancing Technologies (PETs). I completed my Ph.D. in Electrical and Computer Engineering at the University of Arizona under the mentorship of Prof. [Ming Li](http://wiser.arizona.edu/mingli/index.html). During Summer 2022, I interned as an Applied Research Data Scientist at LinkedIn, and in Summer 2019, I was a research intern at Baidu Security Lab. I hold a B.S. in Mathematics and System Science and an M.S. in Automation Science and Electrical Engineering, both from Beihang University. 
+I am a Data Scientist at LinkedIn specializing in Privacy-Enhancing Technologies (PETs). I completed my Ph.D. in Electrical and Computer Engineering at the University of Arizona in 2024, under the mentorship of Prof. [Ming Li](http://wiser.arizona.edu/mingli/index.html). During Summer 2022, I interned as an Applied Research Data Scientist at LinkedIn, and in Summer 2019, I was a research intern at Baidu Security Lab. I hold a B.S. in Mathematics and System Science and an M.S. in Automation Science and Electrical Engineering, both from Beihang University. 
 
 My research interests focus on  privacy-preserving techniques (e.g., Differential Privacy and Secure Multi-Party Computation) and robust machine learning/federated learning. 
 
